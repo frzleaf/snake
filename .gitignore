@@ -2,3 +2,4 @@ bin
 pkg
 .config
 src/github.com
+.idea
